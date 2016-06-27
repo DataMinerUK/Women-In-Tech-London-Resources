@@ -1,5 +1,7 @@
 # Resources For Female Programmers In London
 
+The following resources are free to enter. Specific events might have a price (conference tickets, for example). Some are more active than others. Quality and activity levels will ebb and flow. I suggest you find what interests you, make some great lady friends and then get active making the community better. Give talks, run workshops, invite experts in the field!
+
 ## General meetups
 * [Women Who Code](http://www.meetup.com/Women-Who-Code-London)
 * [Ladies of Code](http://www.meetup.com/Ladies-of-Code-UK)
