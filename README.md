@@ -11,8 +11,8 @@ The following resources are free to enter. Specific events might have a price (c
 * [Coed Code](http://www.meetup.com/Coed-Code) - devops and sys admin
 
 ## Language specific
-* [PyLadies](http://www.meetup.com/PyLadiesLondon)
-* [Women Who Go](http://www.meetup.com/Women-Who-Go-London)
+* [PyLadies](http://www.meetup.com/PyLadiesLondon) - Python
+* [Women Who Go](http://www.meetup.com/Women-Who-Go-London) - GoLang
 * [RailsGirls](http://www.meetup.com/Rails-Girls-London) - Ruby on Rails
 
 ## Language specific training for beginners
